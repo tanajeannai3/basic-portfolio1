@@ -53,11 +53,6 @@ h2{
     margin-left: 100px;
     margin-right: 100px;
 }
-#gallery{
-    background-color: white;
-    margin-left: 100px;
-    margin-right: 100px;
-}
 #footer{
     width: 100%;
     border-top: 8px solid darkkhaki;
@@ -68,6 +63,33 @@ h2{
     color: white;
     text-align: center;
 }
+#gallery{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
 #contact{
     background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+h4{
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: black;
+    text-align: center;
+    background-color: darkkhaki;
+    width: 150px;
+}
+h3{
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: black;
+    text-align: center;
+    background-color: darkkhaki;
+    width: 150px;
 }
