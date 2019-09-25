@@ -1,0 +1,73 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    line-height: 150%;
+    color: #333;
+    background: #efeee7;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;`
+}
+header{
+    background-color: white;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    top: 0%;
+    position: fixed;
+    width: 100%;
+    height: 50px;
+}
+h1{
+    background-color: darkkhaki;
+    text-align: center;
+    margin-top: 0%;
+    float: left;
+    height: 42px;
+    padding-top: 8px;
+    margin-left: 95px;
+}
+.navagation{
+    float: right;
+    margin-right: 95px;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+h2{
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: black;
+    text-align: center;
+    background-color: darkkhaki;
+    width: 150px;
+}
+#bio-image{
+    float: left;
+    width: 300px;
+    height: 300px;
+    margin-right: 20px;
+}
+#content{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#gallery{
+    background-color: white;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+#footer{
+    width: 100%;
+    border-top: 8px solid darkkhaki;
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    background: #333;
+    color: white;
+    text-align: center;
+}
+#contact{
+    background-color: white;
+}
