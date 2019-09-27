@@ -4,8 +4,8 @@ body{
     font-size: 18px;
     line-height: 150%;
     color: #333;
-    background: #efeee7;
-    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;`
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UVSsSM8C4lJt2UYDXm7ER1ZH4szEzfreySZXpdPi5HBt0X-O-g);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 header{
     background-color: white;
@@ -16,7 +16,7 @@ header{
     height: 50px;
 }
 h1{
-    background-color: darkkhaki;
+    background-color: tan;
     text-align: center;
     margin-top: 0%;
     float: left;
@@ -39,7 +39,7 @@ h2{
     font-size: 28px;
     color: black;
     text-align: center;
-    background-color: darkkhaki;
+    background-color: tan;
     width: 150px;
 }
 #bio-image{
@@ -52,16 +52,6 @@ h2{
     background-color: white;
     margin-left: 100px;
     margin-right: 100px;
-}
-#footer{
-    width: 100%;
-    border-top: 8px solid darkkhaki;
-    position: fixed;
-    bottom: 0;
-    height: 40px;
-    background: #333;
-    color: white;
-    text-align: center;
 }
 #gallery{
     background-color: white;
@@ -80,7 +70,7 @@ h4{
     font-size: 28px;
     color: black;
     text-align: center;
-    background-color: darkkhaki;
+    background-color: tan;
     width: 150px;
 }
 h3{
@@ -90,6 +80,93 @@ h3{
     font-size: 28px;
     color: black;
     text-align: center;
-    background-color: darkkhaki;
+    background-color: tan;
     width: 150px;
+} 
+#daisy{
+    width: 250px;
+    height: 180px;
+    padding-right: 10px;
+}
+#daisy:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+/* .daisy .text{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+} */
+#sun{
+    width: 250px;
+    height: 180px;
+}
+#top{
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 200px;
+    display: flex;
+}
+#sun:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+/* .sun .text{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+} */
+#cow{
+    width: 250px;
+    height: 180px;
+    padding-right: 10px;
+}
+#cow:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+/* .cow .text{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+} */
+#angrypepe{
+    width: 250px;
+    height: 180px;
+}
+#angrypepe:hover{
+    padding:1px;
+    border:1px solid #021a40;
+}
+/* .textpepe .text{
+    position: absolute;
+    z-index: 999;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 40%;
+} */
+#bottom{
+    padding-left: 20px;
+    display: flex;
+    padding-bottom: 200px;
+}
+#footer{
+    width: 100%;
+    border-top: 8px solid tan;
+    position: fixed;
+    bottom: 0;
+    height: 40px;
+    background: #333;
+    color: white;
+    text-align: center;
 }
