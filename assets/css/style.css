@@ -63,16 +63,6 @@ h2{
     margin-left: 100px;
     margin-right: 100px;
 }
-h4{
-    padding: 20px;
-    margin: 0;
-    margin-bottom: 20px;
-    font-size: 28px;
-    color: black;
-    text-align: center;
-    background-color: tan;
-    width: 150px;
-}
 h3{
     padding: 20px;
     margin: 0;
@@ -83,6 +73,16 @@ h3{
     background-color: tan;
     width: 150px;
 } 
+h4{
+    padding: 20px;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: black;
+    text-align: center;
+    background-color: tan;
+    width: 150px;
+}
 #daisy{
     width: 250px;
     height: 180px;
@@ -92,23 +92,22 @@ h3{
     padding:1px;
     border:1px solid #021a40;
 }
-/* .daisy .text{
+/* .textdaisy .text-right{
     position: absolute;
     z-index: 999;
     margin: 0 auto;
-    left: 0;
+    left: -170px;
     right: 0;
-    top: 40%;
+    top: 65%;
+    text-align: center;
+    width: 52%;
+    background-color: tan;
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 } */
 #sun{
     width: 250px;
     height: 180px;
-}
-#top{
-    padding-top: 20px;
-    padding-left: 20px;
-    margin-bottom: 200px;
-    display: flex;
 }
 #sun:hover{
     padding:1px;
@@ -155,6 +154,12 @@ h3{
     right: 0;
     top: 40%;
 } */
+#top{
+    padding-top: 20px;
+    padding-left: 20px;
+    margin-bottom: 200px;
+    display: flex;
+}
 #bottom{
     padding-left: 20px;
     display: flex;
